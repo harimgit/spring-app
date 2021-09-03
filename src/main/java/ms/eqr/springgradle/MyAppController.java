@@ -9,7 +9,7 @@ public class MyAppController {
 
 	@RequestMapping("/")
 	public String index() {
-		return "Welcome to Gradle Github Spring Boot Docker App!-v1";
+		return "Welcome to Gradle Github Spring Boot Docker App!-v2";
 	}
 
 	@RequestMapping("/testSpring")
